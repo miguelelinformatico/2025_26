@@ -308,11 +308,6 @@
             <mxPoint x="340" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;img src=&quot;https://igformacion.eu/pluginfile.php/200/mod_resource/content/1/Practica-1-unidad-2---solucion.png&quot;&gt;" link="&lt;img src=&quot;https://igformacion.eu/pluginfile.php/200/mod_resource/content/1/Practica-1-unidad-2---solucion.png&quot;&gt;" id="4b0Ss60x4V08ilDq4xYQ-84">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="210" y="40" width="30" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
